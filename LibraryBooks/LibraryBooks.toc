@@ -1,0 +1,29 @@
+## Interface: 16001
+## Title: Library Books Tracker
+## Notes: Tracker, map pins, TomTom/map-pin waypoints and difficulty hints for the 40 Library books.
+## Notes-ruRU: Трекер 40 книг библиотеки: метки на картах, маршруты TomTom и подсказки по сложности.
+## Notes-deDE: Tracker für die 40 Bibliotheksbücher: Kartenpins, TomTom-/Kartenmarkierungen und Schwierigkeitshinweise.
+## Version: 1.8.1
+## Author: ZamestoTV
+## SavedVariables: LibraryBooksDB
+## SavedVariablesPerCharacter: LibraryBooksCharDB
+## OptionalDeps: TomTom
+## IconTexture: Interface\AddOns\LibraryBooks\Textures\Icon
+
+## Category-enUS: Addons ZamestoTV
+## Category-ruRU: Аддоны ZamestoTV
+
+Core.lua
+Data.lua
+Zones.lua
+Locales\enUS.lua
+Locales\ruRU.lua
+Locales\deDE.lua
+Difficulty.lua
+Waypoints.lua
+Pins.lua
+Widgets.lua
+BookWindow.lua
+Settings.lua
+MinimapButton.lua
+Main.lua
